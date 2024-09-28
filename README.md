@@ -7,5 +7,5 @@ It is a commandline based attendance tracker using MySQL to store the attendance
 ## Currently Supported Commands
 ### `store`
 Used to store attendance data and update the database.
-### `show `
+### `show`
 Used to get the current attendance data as shown above.
